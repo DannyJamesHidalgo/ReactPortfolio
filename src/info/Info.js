@@ -109,7 +109,7 @@ export const info = {
         {
             title: "Pitty Parties",
             live: "https://pitty-party-client.vercel.app/login", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
-            source: "https://github.com/paytonjewell", // this should be a link to the **repository** of the project, where the code is hosted.
+            source: "https://github.com/DannyJamesHidalgo/pitty-party-client", // this should be a link to the **repository** of the project, where the code is hosted.
             image: mock1
         }
        
