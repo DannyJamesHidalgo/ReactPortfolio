@@ -114,7 +114,7 @@ export const info = {
         },
         {
             title: "Brown Chiropractic",
-            live: "https://browns-chiro---master.design.webflow.com/?mode=edit"
+            live: "https://browns-chiro---master.webflow.io/"
     
         }
        
