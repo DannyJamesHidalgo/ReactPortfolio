@@ -114,9 +114,10 @@ export const info = {
         },
         {
             title: "Brown Chiropractic",
-            live: "https://browns-chiro---master.webflow.io/"
+            live: "https://www.brownfamilychiro.com/"
     
-        }
+        },
+        
        
     ]
 }
